@@ -1,0 +1,9 @@
+-- TODO: Criar Script de implantação se houver tempo.
+INSERT INTO Competidor
+values
+('Gandalf', 'M', 36.9, 100, 192.7), ('Thanos', 'M', 33.9, 1200, 252.7), ('Mario', 'M', 37.1, 70, 112.7) -- public int id { get; set; }
+    -- public string nome { get; set; }
+    -- public char sexo { get; set; }
+    -- public decimal temperatura { get; set; }
+    -- public decimal peso { get; set; }
+    -- public decimal altura { get; set; }

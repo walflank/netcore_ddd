@@ -8,5 +8,6 @@ namespace CRUD.Application.Validations
 {
     class CompetidorValidator
     {
+        //TODO: teste commit
     }
 }
